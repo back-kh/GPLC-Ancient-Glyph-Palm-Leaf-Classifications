@@ -7,7 +7,6 @@
 Research benchmark and reference implementations for isolated glyph classification across Khmer, Balinese, and Sundanese palm-leaf manuscripts.
 
 **A research component of [PALM-SEA](https://ruisju111.github.io/PLA/)**  
-**Project led by Dr. Nimol Thuon**
 
 [![Paper](https://img.shields.io/badge/ICFHR%202022-Paper-0A66C2?style=flat-square)](https://doi.org/10.1007/978-3-031-21648-0_5)
 ![Scripts](https://img.shields.io/badge/Scripts-Khmer%20%7C%20Balinese%20%7C%20Sundanese-8A2BE2?style=flat-square)
